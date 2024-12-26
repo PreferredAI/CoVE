@@ -1,0 +1,3 @@
+[submodule "cornacc"]
+	path = cornacc
+	url = https://github.com/PreferredAI/cornac
